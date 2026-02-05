@@ -292,7 +292,7 @@ This project was developed as part of a mobile application development course.
 
 This project is licensed for educational purposes.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Course materials and lab instructions
 - .NET MAUI community and documentation
